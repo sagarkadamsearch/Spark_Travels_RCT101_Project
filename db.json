@@ -1,0 +1,16 @@
+{
+ "loginCreditionals":[
+   {"username":1234,
+     "password":"Hello"
+    } 
+ ],
+ "Hotels":[
+    {   "id":1,
+        "username":1234
+    },
+    { 
+        "username":1235
+    }
+]
+ 
+}
