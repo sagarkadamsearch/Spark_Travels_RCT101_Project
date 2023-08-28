@@ -11,7 +11,7 @@ const {DarkMode,modeChange} = useContext(ThemeContext);
        {to:"/",text:"Home"},
        {to:"/about",text:"About"},
        {to:"/holiday",text:"Holiday"},
-       {to:"/testimonal",text:"Testimonal"},
+       {to:"/testimonal",text:"Testimonial"},
   ]
 
   const activeStyle = {
